@@ -6,6 +6,7 @@ public class MyList<E> {
     ArrayList<E> elements = new ArrayList<>();
 
     public MyList() {
+
     }
 
     public MyList(int size) {
